@@ -14,6 +14,16 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br/>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23315792.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon Web Services (AWS)](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/junit-%23F6E05E.svg?style=for-the-badge&logo=junit&logoColor=black)
+![Sass](https://img.shields.io/badge/sass-%23CF649A.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%234B77BE.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 <table>
   <tr>
