@@ -48,7 +48,7 @@ Sure! Here is the updated list including Trello and Atlassian Jira under the **P
 ### Productivity & Project Management
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%231660AB.svg?style=for-the-badge&logo=trello&logoColor=white)
-![Jira]([https://img.shields.io/badge/jira-%003366.svg?style=for-the-badge&logo=jira&logoColor=white](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white))
+![Jira](https://img.shields.io/badge/jira-%25003366)
 
 This organization should make it easier to view and categorize your skills and tools!
 
