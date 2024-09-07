@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Harrison Seaborn! 👋
+
+I’m a passionate full-stack web developer from Spokane, WA, with a keen interest in leveraging the rich tech ecosystem of the Pacific Northwest. When I'm not diving into the latest tech trends or refining my coding skills, you can find me exploring the great outdoors or enjoying the numerous activities the region has to offer.
+
+I recently completed an intensive Java Bootcamp through Merit America, where I deepened my expertise in Java programming with a focus on backend development using Spring Boot and PostgreSQL. I am now actively applying and expanding my skills through daily coding challenges and personal projects while seeking a full-time role where I can contribute and grow as a developer.
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or discuss tech!
 
 # 💻 Tech Stack
 
