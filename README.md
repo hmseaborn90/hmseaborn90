@@ -34,7 +34,7 @@ Sure! Here is the updated list including Trello and Atlassian Jira under the **P
 ![REST APIs](https://img.shields.io/badge/rest%20apis-%2345A29E.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### Editors
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Testing Frameworks
