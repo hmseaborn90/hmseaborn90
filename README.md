@@ -39,6 +39,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![JUnit](https://img.shields.io/badge/junit-%23F6E05E.svg?style=for-the-badge&logo=junit&logoColor=black)
+
 ### 🧠 Programming Concepts
 ![Object-Oriented Programming (OOP)](https://img.shields.io/badge/object--oriented%20programming-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Functional Programming](https://img.shields.io/badge/functional%20programming-%2304A777.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -54,6 +55,7 @@
 ![Security Best Practices](https://img.shields.io/badge/security%20best%20practices-%23FF6F00.svg?style=for-the-badge&logo=security&logoColor=white)
 ![Version Control](https://img.shields.io/badge/version%20control-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/ci%2Fcd-%236DB33F.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
 ### 📅 Productivity & Project Management
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%231660AB.svg?style=for-the-badge&logo=trello&logoColor=white)
