@@ -44,6 +44,21 @@ Sure! Here is the updated list including Trello and Atlassian Jira under the **P
 
 ### Programming Concepts
 ![Object-Oriented Programming (OOP)](https://img.shields.io/badge/object--oriented%20programming-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Functional Programming](https://img.shields.io/badge/functional%20programming-%2304A777.svg?style=for-the-badge&logo=java&logoColor=white)
+![Asynchronous Programming](https://img.shields.io/badge/asynchronous%20programming-%233C3C3C.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/design%20patterns-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)
+![Data Structures](https://img.shields.io/badge/data%20structures-%233F8C57.svg?style=for-the-badge&logo=python&logoColor=white)
+![Algorithms](https://img.shields.io/badge/algorithms-%235C6BC0.svg?style=for-the-badge&logo=python&logoColor=white)
+![Database Normalization](https://img.shields.io/badge/database%20normalization-%233B5998.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/dependency%20injection-%234B77BE.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Event-Driven Programming](https://img.shields.io/badge/event%20driven%20programming-%233C3C3C.svg?style=for-the-badge&logo=react&logoColor=white)
+![API Design & RESTful Services](https://img.shields.io/badge/api%20design%20%26%20restful%20services-%2345A29E.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/data%20modeling-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Security Best Practices](https://img.shields.io/badge/security%20best%20practices-%23FF6F00.svg?style=for-the-badge&logo=security&logoColor=white)
+![Version Control](https://img.shields.io/badge/version%20control-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/ci%2Fcd-%236DB33F.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+Feel free to adjust the colors and logos as needed to match your preferences!
 
 ### Productivity & Project Management
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
